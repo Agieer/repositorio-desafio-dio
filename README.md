@@ -1,2 +1,2 @@
-# repositorio-desafio-dio
-Repositório inicial do desafio 01 da DIO
+# Repositorio desafio dio
+Este é um repositorio criado para o desafio DIO
